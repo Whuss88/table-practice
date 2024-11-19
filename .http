@@ -1,4 +1,4 @@
-@host = http://localhost:3000
+@host = http://localhost:3002
 
 ### Make a reservation to restaurant #3 with customers #1, #2, and #3
 POST {{host}}/reservations
